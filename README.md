@@ -30,6 +30,7 @@ low level data manipulation and utility operations.
 * [jQuery UI](http://jqueryui.com)
 * [YUI](http://developer.yahoo.com/yui/)
 * [SproutCore](http://www.sproutcore.com/)
+* [jQuery Tools](http://flowplayer.org/tools/)
 
 ### Templates
 * [Mustache](http://mustache.github.com/)
