@@ -33,6 +33,7 @@ low level data manipulation and utility operations.
 * [jQuery Tools](http://flowplayer.org/tools/)
 * [Unify](http://unify.github.com/unify/)
 * [ExtJS](http://www.sencha.com/products/js/)
+* [jQuery Mobile](http://jquerymobile.com/)
 
 ### Templates
 * [Mustache](http://mustache.github.com/)
