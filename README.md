@@ -31,6 +31,8 @@ low level data manipulation and utility operations.
 * [YUI](http://developer.yahoo.com/yui/)
 * [SproutCore](http://www.sproutcore.com/)
 * [jQuery Tools](http://flowplayer.org/tools/)
+* [Unify](http://unify.github.com/unify/)
+* [ExtJS](http://www.sencha.com/products/js/)
 
 ### Templates
 * [Mustache](http://mustache.github.com/)
