@@ -18,6 +18,7 @@ tool used in this stack.
 * [underscore.js](http://github.com/documentcloud/underscore) will be used for
 low level data manipulation and utility operations.
 * [json2.js](http://www.json.org/json2.js) Updated JSON library
+* [jQuery Metadata](http://github.com/jquery/jquery-metadata)
 
 ### Potential Backend Tools
 * [Backbone.js](http://documentcloud.github.com/backbone/)
