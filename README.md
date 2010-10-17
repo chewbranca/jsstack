@@ -44,6 +44,7 @@ low level data manipulation and utility operations.
 * [base2.js](http://code.google.com/p/base2/source/browse/trunk/lib/src/base2.js)
 need to research more
 * [hash_history](http://gist.github.com/624773)
+* [trident-js](http://github.com/kirillcool/trident-js)
 
 ### Resources
 * [http://code.google.com/web/ajaxcrawling/docs/getting-started.html](http://code.google.com/web/ajaxcrawling/docs/getting-started.html)
