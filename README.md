@@ -47,6 +47,7 @@ low level data manipulation and utility operations.
 need to research more
 * [hash_history](http://gist.github.com/624773)
 * [jquery.engineer](http://github.com/jpoz/jquery.engineer)
+* [trident-js](http://github.com/kirillcool/trident-js)
 
 ### Resources
 * [http://code.google.com/web/ajaxcrawling/docs/getting-started.html](http://code.google.com/web/ajaxcrawling/docs/getting-started.html)
