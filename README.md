@@ -25,6 +25,7 @@ low level data manipulation and utility operations.
 * [Sammy.js](http://code.quirkey.com/sammy/)
 * [Evently](http://github.com/jchris/evently)
 * [js-model](http://benpickles.github.com/js-model/)
+* [knockout.js](http://knockoutjs.com/)
 
 ### UI Libraries (the missing component)
 * [jQuery UI](http://jqueryui.com)
@@ -34,6 +35,7 @@ low level data manipulation and utility operations.
 * [Unify](http://unify.github.com/unify/)
 * [ExtJS](http://www.sencha.com/products/js/)
 * [jQuery Mobile](http://jquerymobile.com/)
+* [uki.js](http://ukijs.org/) impressive.. [http://ukijs.org/mail/index.html](http://ukijs.org/mail/index.html)
 
 ### Templates
 * [Mustache](http://mustache.github.com/)
@@ -44,6 +46,7 @@ low level data manipulation and utility operations.
 * [base2.js](http://code.google.com/p/base2/source/browse/trunk/lib/src/base2.js)
 need to research more
 * [hash_history](http://gist.github.com/624773)
+* [jquery.engineer](http://github.com/jpoz/jquery.engineer)
 
 ### Resources
 * [http://code.google.com/web/ajaxcrawling/docs/getting-started.html](http://code.google.com/web/ajaxcrawling/docs/getting-started.html)
